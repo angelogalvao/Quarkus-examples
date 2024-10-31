@@ -1,2 +1,2 @@
-# Quarkus-examples
+# quarkus-examples
 Repository of Quarkus examples
